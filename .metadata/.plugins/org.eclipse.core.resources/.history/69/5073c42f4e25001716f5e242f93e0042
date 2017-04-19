@@ -1,0 +1,6 @@
+package br.com.a2luglios.ms.controller;
+
+
+public class IndexController {
+
+}

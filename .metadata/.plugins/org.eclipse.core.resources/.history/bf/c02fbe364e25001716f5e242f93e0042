@@ -1,0 +1,6 @@
+package br.com.a2luglios.ms.modelo;
+
+@Entity
+public class Usuario {
+
+}

@@ -1,0 +1,13 @@
+//package br.com.a2luglios.ms.dao;
+//
+//import javax.enterprise.context.RequestScoped;
+//import javax.inject.Inject;
+//import javax.persistence.EntityManager;
+//
+//@RequestScoped
+//public class UsuarioDao {
+//
+//	@Inject
+//    private EntityManager manager;
+//	
+//}

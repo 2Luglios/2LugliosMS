@@ -1,0 +1,10 @@
+package br.com.a2luglios.ms.modelo;
+
+@Entity
+public class Usuario {
+
+	@Id
+	@GeneratedValue
+	private Long id;
+	
+}
